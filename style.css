@@ -60,4 +60,9 @@ body{
 #right{
     float: right;
 }
-
+article{
+    size-adjust: 30vw;
+}
+.info{
+    text-align: center;
+}
